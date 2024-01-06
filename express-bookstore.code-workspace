@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/express-api-validation-demo"
+		},
+		{
+			"path": "../express-messagely"
+		}
+	],
+	"settings": {}
+}
